@@ -152,7 +152,6 @@ GEM
       actionpack (>= 4.0)
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
-    sqlite3 (1.4.2)
     temple (0.8.2)
     thor (1.0.1)
     thread_safe (0.3.6)
@@ -161,7 +160,7 @@ GEM
       thread_safe (~> 0.1)
     websocket-driver (0.7.1)
       websocket-extensions (>= 0.1.0)
-    websocket-extensions (0.1.4)
+    websocket-extensions (0.1.5)
     zeitwerk (2.3.0)
 
 PLATFORMS
@@ -169,7 +168,6 @@ PLATFORMS
 
 DEPENDENCIES
   sassc-rails
-  sqlite3
   watchdog!
 
 BUNDLED WITH
